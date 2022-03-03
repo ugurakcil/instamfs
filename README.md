@@ -2,4 +2,6 @@
 
 On the terminal;
 
-```python3 main.py yourinstagramusername yourinstagrampassword
+```python
+python3 main.py yourinstagramusername yourinstagrampassword 
+```
